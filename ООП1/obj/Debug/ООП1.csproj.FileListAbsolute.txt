@@ -1,0 +1,8 @@
+D:\Учёба\3сем\ООП\Лабы\ООП1\bin\Debug\ООП1.exe.config
+D:\Учёба\3сем\ООП\Лабы\ООП1\bin\Debug\ООП1.exe
+D:\Учёба\3сем\ООП\Лабы\ООП1\bin\Debug\ООП1.pdb
+D:\Учёба\3сем\ООП\Лабы\ООП1\obj\Debug\ООП1.csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\ООП1\obj\Debug\ООП1.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\3сем\ООП\Лабы\ООП1\obj\Debug\ООП1.csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\ООП1\obj\Debug\ООП1.exe
+D:\Учёба\3сем\ООП\Лабы\ООП1\obj\Debug\ООП1.pdb
