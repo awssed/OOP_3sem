@@ -1,0 +1,15 @@
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\bin\Debug\net7.0\OOP14_multithreading.exe
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\bin\Debug\net7.0\OOP14_multithreading.deps.json
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\bin\Debug\net7.0\OOP14_multithreading.runtimeconfig.json
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\bin\Debug\net7.0\OOP14_multithreading.dll
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\bin\Debug\net7.0\OOP14_multithreading.pdb
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.AssemblyInfoInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.AssemblyInfo.cs
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.dll
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\refint\OOP14_multithreading.dll
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.pdb
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\OOP14_multithreading.genruntimeconfig.cache
+D:\Учёба\3сем\ООП\Лабы\OOP14_multithreading\OOP14_multithreading\obj\Debug\net7.0\ref\OOP14_multithreading.dll

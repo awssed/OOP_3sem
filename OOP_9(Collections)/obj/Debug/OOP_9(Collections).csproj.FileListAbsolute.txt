@@ -1,0 +1,8 @@
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\obj\Debug\OOP_9(Collections).csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\obj\Debug\OOP_9(Collections).csproj.SuggestedBindingRedirects.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\obj\Debug\OOP_9(Collections).csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\bin\Debug\OOP_9(Collections).exe.config
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\bin\Debug\OOP_9(Collections).exe
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\bin\Debug\OOP_9(Collections).pdb
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\obj\Debug\OOP_9(Collections).exe
+D:\Учёба\3сем\ООП\Лабы\OOP_9(Collections)\obj\Debug\OOP_9(Collections).pdb

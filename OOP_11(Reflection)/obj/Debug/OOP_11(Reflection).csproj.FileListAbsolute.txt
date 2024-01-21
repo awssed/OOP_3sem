@@ -1,0 +1,8 @@
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\obj\Debug\OOP_11(Reflection).csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\obj\Debug\OOP_11(Reflection).csproj.SuggestedBindingRedirects.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\obj\Debug\OOP_11(Reflection).csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\bin\Debug\OOP_11(Reflection).exe.config
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\bin\Debug\OOP_11(Reflection).exe
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\bin\Debug\OOP_11(Reflection).pdb
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\obj\Debug\OOP_11(Reflection).exe
+D:\Учёба\3сем\ООП\Лабы\OOP_11(Reflection)\obj\Debug\OOP_11(Reflection).pdb

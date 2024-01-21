@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <model>Toyota</model>
+    <typeOfAuto>Sedan</typeOfAuto>
+    <year>0</year>
+    <ThisNonSerialized>1</ThisNonSerialized>
+    <CarEngine>
+      <typeOfEngine>Petrol</typeOfEngine>
+      <horsePower>200</horsePower>
+      <TypeOfEngine>Petrol</TypeOfEngine>
+      <HorsePower>200</HorsePower>
+    </CarEngine>
+    <TypeOfAuto>Sedan</TypeOfAuto>
+    <Year>0</Year>
+  </Car>
+  <Car>
+    <model>Honda</model>
+    <typeOfAuto>SUV</typeOfAuto>
+    <year>0</year>
+    <ThisNonSerialized>1</ThisNonSerialized>
+    <CarEngine>
+      <typeOfEngine>Diesel</typeOfEngine>
+      <horsePower>250</horsePower>
+      <TypeOfEngine>Diesel</TypeOfEngine>
+      <HorsePower>250</HorsePower>
+    </CarEngine>
+    <TypeOfAuto>SUV</TypeOfAuto>
+    <Year>0</Year>
+  </Car>
+</ArrayOfCar>

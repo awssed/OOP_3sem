@@ -1,0 +1,8 @@
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\bin\Debug\OOP10(LINQ).exe.config
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\bin\Debug\OOP10(LINQ).exe
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\bin\Debug\OOP10(LINQ).pdb
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\obj\Debug\OOP10(LINQ).csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\obj\Debug\OOP10(LINQ).csproj.SuggestedBindingRedirects.cache
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\obj\Debug\OOP10(LINQ).csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\obj\Debug\OOP10(LINQ).exe
+D:\Учёба\3сем\ООП\Лабы\OOP10(LINQ)\obj\Debug\OOP10(LINQ).pdb

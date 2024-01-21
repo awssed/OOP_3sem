@@ -1,0 +1,31 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Transport_x002B_Car id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/OOP13/OOP13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<typeOfAuto id="ref-3">Sedan</typeOfAuto>
+<year>0</year>
+<CarEngine href="#ref-4"/>
+<model id="ref-5">Toyota</model>
+</a1:Transport_x002B_Car>
+<a1:Transport_x002B_Car_x002B_Engine id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/OOP13/OOP13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<typeOfEngine id="ref-6">Petrol</typeOfEngine>
+<horsePower>200</horsePower>
+</a1:Transport_x002B_Car_x002B_Engine>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Transport_x002B_Car id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/OOP13/OOP13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<typeOfAuto id="ref-3">SUV</typeOfAuto>
+<year>0</year>
+<CarEngine href="#ref-4"/>
+<model id="ref-5">Honda</model>
+</a1:Transport_x002B_Car>
+<a1:Transport_x002B_Car_x002B_Engine id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/OOP13/OOP13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<typeOfEngine id="ref-6">Diesel</typeOfEngine>
+<horsePower>250</horsePower>
+</a1:Transport_x002B_Car_x002B_Engine>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+</a1:Transport_x002B_Car_x002B_Engine>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

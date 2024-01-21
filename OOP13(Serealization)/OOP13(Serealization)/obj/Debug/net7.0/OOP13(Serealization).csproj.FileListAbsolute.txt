@@ -1,0 +1,15 @@
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).AssemblyInfoInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).AssemblyInfo.cs
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\bin\Debug\net7.0\OOP13(Serealization).exe
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\bin\Debug\net7.0\OOP13(Serealization).deps.json
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\bin\Debug\net7.0\OOP13(Serealization).runtimeconfig.json
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\bin\Debug\net7.0\OOP13(Serealization).dll
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\bin\Debug\net7.0\OOP13(Serealization).pdb
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).dll
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\refint\OOP13(Serealization).dll
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).pdb
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\OOP13(Serealization).genruntimeconfig.cache
+D:\Учёба\3сем\ООП\Лабы\OOP13(Serealization)\OOP13(Serealization)\obj\Debug\net7.0\ref\OOP13(Serealization).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OOP12(Working_with_files.Streaming_systems)/1.0.0": {
+        "runtime": {
+          "OOP12(Working_with_files.Streaming_systems).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP12(Working_with_files.Streaming_systems)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

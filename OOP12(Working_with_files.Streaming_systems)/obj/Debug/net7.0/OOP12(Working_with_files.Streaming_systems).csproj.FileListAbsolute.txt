@@ -1,0 +1,15 @@
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\bin\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).exe
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\bin\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).deps.json
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\bin\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).runtimeconfig.json
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\bin\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).dll
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\bin\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).pdb
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).AssemblyInfoInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).AssemblyInfo.cs
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).dll
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\refint\OOP12(Working_with_files.Streaming_systems).dll
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).pdb
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\OOP12(Working_with_files.Streaming_systems).genruntimeconfig.cache
+D:\Учёба\3сем\ООП\Лабы\OOP12(Working_with_files.Streaming_systems)\obj\Debug\net7.0\ref\OOP12(Working_with_files.Streaming_systems).dll

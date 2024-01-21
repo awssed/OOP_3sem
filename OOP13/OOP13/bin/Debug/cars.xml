@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <model>Toyota</model>
+  <typeOfAuto>Sedan</typeOfAuto>
+  <year>0</year>
+  <ThisNonSerialized>1</ThisNonSerialized>
+  <CarEngine>
+    <typeOfEngine>Petrol</typeOfEngine>
+    <horsePower>200</horsePower>
+    <TypeOfEngine>Petrol</TypeOfEngine>
+    <HorsePower>200</HorsePower>
+  </CarEngine>
+  <TypeOfAuto>Sedan</TypeOfAuto>
+  <Year>0</Year>
+</Car>

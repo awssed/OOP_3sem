@@ -1,0 +1,15 @@
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\bin\Debug\net7.0\OOP15_PFX.exe
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\bin\Debug\net7.0\OOP15_PFX.deps.json
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\bin\Debug\net7.0\OOP15_PFX.runtimeconfig.json
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\bin\Debug\net7.0\OOP15_PFX.dll
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\bin\Debug\net7.0\OOP15_PFX.pdb
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.AssemblyInfoInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.AssemblyInfo.cs
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.dll
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\refint\OOP15_PFX.dll
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.pdb
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\OOP15_PFX.genruntimeconfig.cache
+D:\Учёба\3сем\ООП\Лабы\OOP15_PFX\OOP15_PFX\obj\Debug\net7.0\ref\OOP15_PFX.dll

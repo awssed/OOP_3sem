@@ -1,0 +1,15 @@
+D:\Учёба\3сем\ООП\Лабы\OOP_11\bin\Debug\net7.0\OOP_11.exe
+D:\Учёба\3сем\ООП\Лабы\OOP_11\bin\Debug\net7.0\OOP_11.deps.json
+D:\Учёба\3сем\ООП\Лабы\OOP_11\bin\Debug\net7.0\OOP_11.runtimeconfig.json
+D:\Учёба\3сем\ООП\Лабы\OOP_11\bin\Debug\net7.0\OOP_11.dll
+D:\Учёба\3сем\ООП\Лабы\OOP_11\bin\Debug\net7.0\OOP_11.pdb
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.csproj.AssemblyReference.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.AssemblyInfoInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.AssemblyInfo.cs
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.csproj.CoreCompileInputs.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.dll
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\refint\OOP_11.dll
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.pdb
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\OOP_11.genruntimeconfig.cache
+D:\Учёба\3сем\ООП\Лабы\OOP_11\obj\Debug\net7.0\ref\OOP_11.dll
